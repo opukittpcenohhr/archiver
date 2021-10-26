@@ -2,7 +2,7 @@
 
 * make sure that you have Make and CMake
 * clone this repo
-* run "cmake CMakeLists.txt"
+* run 'cmake CMakeLists.txt'
 * run "make archiver"
 
 # Usage 
