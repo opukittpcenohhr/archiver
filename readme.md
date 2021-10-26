@@ -1,7 +1,7 @@
 # Installation
 
 
-* make sure that you have Make and CMake
+* make sure that you have Make and CMake installed
 * clone this repo
 * run ```cmake CMakeLists.txt```
 * run ```make archiver```
