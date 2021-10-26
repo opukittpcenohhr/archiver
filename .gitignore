@@ -1,0 +1,9 @@
+CMakeCache.txt
+CMakeFiles
+Makefile
+archiver
+cmake_install.cmake
+test_archiver
+tmp
+write_test
+*.cmake
