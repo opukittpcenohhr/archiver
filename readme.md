@@ -3,7 +3,7 @@
 
 * make sure that you have Make and CMake installed
 * clone this repo
-* run ```cmake CMakeLists.txt```
+* run ```CMake CMakeLists.txt```
 * run ```make archiver```
 
 # Usage 
